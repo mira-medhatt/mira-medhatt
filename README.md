@@ -1,5 +1,5 @@
-### Hi there i'm mira and i'm a fullstack studentttt.👋
-
+### Hi there i'm mira.👋
+**i'm a fullstack student**
 <!--
 **mira-medhatt/mira-medhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
